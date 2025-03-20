@@ -18,4 +18,4 @@ This is a simple single-page CV created using only HTML.
 
 ## Project Page
 
-[View Live Demo](https://your-username.github.io/html-cv-project/)
+[View Live Demo](https://rizkilabs.github.io/html-cv-project/)
